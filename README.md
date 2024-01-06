@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhav21062003&label=Profile%20views&color=0e75b6&style=flat" alt="madhav21062003" /> </p>
 
-- 🔭 I’m currently working on **Encrypted Chat Application**
-
 - 🌱 I’m currently learning **Java, Flutter**
 
 - 💬 Ask me about **Android Development**
