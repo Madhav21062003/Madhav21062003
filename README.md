@@ -2,7 +2,6 @@
 <h3 align="center">A passionate Mobile Application developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhav21062003&label=Profile%20views&color=0e75b6&style=flat" alt="madhav21062003" /> </p>
-- 👀 I’m interested in Flutter Development 
 - 🌱 I’m currently learning Android Development 
 - 💞️ I’m looking to collaborate on Android and Web Development Projects
 - 📫 You can reach me by mail (Email id : madhav09solnaki@gmail.com)
